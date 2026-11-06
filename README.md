@@ -246,4 +246,4 @@ This repository serves as the official landing page for Dragon Age 2. The softwa
 **Get the most recent version of Dragon Age 2 today!**
 
 ---
-**Last updated:** 2026-11-06 08:44:36 UTC
+**Last updated:** 2026-11-06 16:28:34 UTC
